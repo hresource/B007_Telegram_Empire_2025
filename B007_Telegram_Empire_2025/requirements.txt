@@ -1,0 +1,15 @@
+telethon>=1.36.0
+pyrogram
+tgsessionsconverter
+requests
+fastapi
+uvicorn
+colorama
+names
+apscheduler
+google-auth
+google-auth-oauthlib
+google-api-python-client
+frida-tools
+schedule
+tkinter
